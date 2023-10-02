@@ -49,7 +49,7 @@
   </pre>
 
    ### - cin object :
-  > * 
+  > * get value from the user to use cin object.
   <pre>
     int main()
     {
@@ -93,10 +93,10 @@
   </pre>
 
   ### Escape Sequence Character :
-  > `\n` : New Line
-  > `\t` : Tab
-  > `endl` : New Line Or endline
-
+  > `\n` : New Line<br>
+  > `\t` : Tab<br>
+  > `endl` : New Line Or endline<br>
+<br><br>
   > `string` : New Datatype for string. 
 
   
