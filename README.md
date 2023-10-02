@@ -63,7 +63,7 @@
           Note : >> - Extraction Operator
   </pre>
 
-   ###  -  - using namespace std :
+   ###  - using namespace std :
 
    > From STD come two objects, cout and cin.
   <pre>
@@ -82,7 +82,7 @@
   </pre>
 
   <pre>
-    $include<<iostream>iostream>
+    #include<<iostream>iostream>
     using namespace std;
 
     int main()
