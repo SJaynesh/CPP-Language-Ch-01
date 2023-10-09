@@ -24,6 +24,7 @@
   C programming files are stored with .c extension. | C++ programming files are stored with .cpp extension.
   C is use <stdio.h> header file. | C++ is use <iostream.h> header file.
   C is use for void main() function. Its body for C Language. | C++ is use for int main() function. Its body for C++ Language.
+  C is Support only for int,char,float datatype. | C++ is Support for int,char,float,double,string,boolean(True,False).
   No built-in support for classes and object. | Has built-in support for classes and object.
 
 
@@ -33,7 +34,7 @@
   >
   > `Note : ` => use for<br><br>
   >  #include<iostream.h>  // only support for Turbo C++ <br>
-  >  #include<iostream>    // only support for Dev C++
+  >  #include<iostream<iostream>>    // only support for Dev C++
   
 
 
