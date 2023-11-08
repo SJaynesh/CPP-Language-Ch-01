@@ -28,7 +28,7 @@
   No built-in support for classes and object. | Has built-in support for classes and object.
 
 
-  ## Header File In C Language :
+  ## Header File In C++ Language :
   
   > `iostream.h` => standard input-output stream header file
   >
