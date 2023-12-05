@@ -1,6 +1,10 @@
 # 1. Introduction To C++
 
+<br><br>
+
   ###  - History of C++ :
+
+  <br>
 
   > * History of c++ language is interesting to know. Here we are going to discuss brief history of c++ language.
   > * C++ programming language was developed in 1980 by Bjarne Stroustrup at bell laboratories of AT&T (American Telephone & Telegraph), located in U.S.A.
@@ -9,14 +13,28 @@
   >     *  It was develop for adding a feature of OOP(Object Oriented Programming)in C without significantly changing the C component.  
   >     *  Bjarne Stroustrup  PhD- in OOP's - Object Oriented Programming.
   >     *  C Language is POP :- Procedural Oriented Programming.
-      
+
+<br>
+
+   <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-01/assets/115562979/4db1967d-44c1-4b45-8d37-89dd387247d6.png" width=80% height=60%></p>
+
+   <br>
 
   #### Bjarne Stroustrup :
 
-  <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-01/assets/115562979/da3efb82-7785-492e-931d-6cbcfc4448b9.png" width=40% height=30%></p>
+<br>
+
+  <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-01/assets/115562979/da3efb82-7785-492e-931d-6cbcfc4448b9.png" width=45% height=20%></p>
+
+  <br>
 
   #### All History of C++ :  
-  <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-01/assets/115562979/d3bc2454-6064-46fe-95c1-76ef4417b69f.png" width=40% height=30%></p>    
+
+  <br>
+  
+  <p><img src = "https://github.com/SJaynesh/CPP-Languge-Ch-01/assets/115562979/d3bc2454-6064-46fe-95c1-76ef4417b69f.png" width=70% height=40%></p>   
+
+  <br><br>
 
 
    ###  -  Difference between C & C++ :
@@ -49,7 +67,9 @@
         cout << "Hello World !!";  
     }
 
-          Note : << - Insertion Operator
+          Note : 
+            << - Insertion Operator.
+            cout - console output.
   </pre>
 
    ### - cin object :
@@ -64,7 +84,9 @@
         cin >> b;
     }
 
-          Note : >> - Extraction Operator
+          Note : 
+            >> - Extraction Operator.
+            cin - console input.
   </pre>
 
    ###  - using namespace std :
@@ -99,7 +121,14 @@
   ### Escape Sequence Character :
   > `\n` : New Line<br>
   > `\t` : Tab<br>
-  > `endl` : New Line Or endline<br>
+
+  <br>
+  
+  ### `endl` : 
+  > * endl is keyword.
+  > * endl means End Line. One type of new line.
+  > * endl is also called Manipulator.
+
 <br><br>
   > `string` : New Datatype for string. 
 
