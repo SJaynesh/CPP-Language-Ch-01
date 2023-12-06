@@ -130,7 +130,25 @@
   > * endl is also called Manipulator.
 
 <br><br>
+
   > `string` : New Datatype for string. 
 
-  
 
+<br><br>
+
+## Control Structure: 
+
+<br>
+
+ <p> <img src = "https://github.com/SJaynesh/CPP-Languge-Ch-01/assets/115562979/e2a6d013-1a36-40d7-b13d-9535026e46f3.png" width=70% height=40%></p>  
+
+
+<br><br>
+
+## Looping:
+
+<br>
+
+<p> <img src = "https://github.com/SJaynesh/CPP-Languge-Ch-01/assets/115562979/ae558a7f-9ed9-4420-b6fa-41d00175106e.png" width=70% height=40%></p>  
+
+<br>
